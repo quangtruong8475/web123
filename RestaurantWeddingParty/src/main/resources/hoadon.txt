@@ -1,0 +1,31 @@
+		=== Hoa don thanh toan ===
+Ma khach hang: KH003
+Ten buoi tiec:Buoi tiec 3
+Ngay thue:05/01/2022
+Thoi gian thue: Buoi sang
+Thong tin thue tiec
+-Sanh thue:
+	-Ten sanh:Sanh 3
+	-Vi tri: 4
+	-So luong ban: 250
+-Menu cho tung ban
+	-Thit
+	-Cha nem
+	-Bia
+	-Pessi
+	-Banh mi
+	-Coca
+-Cac dich vu di kem
++Dich vu Karaoke
+	-So gio hat: 2.5
++Dich vu thue ca si
+	-Ten ca si:Son Tung
+	-So bai hat: 3
++Dich vu thue ca si
+	-Ten ca si:My Tam
+	-So bai hat: 2
++Dich vu Karaoke
+	-So gio hat: 3.5
++Dich vu trang tri phoi canh
+
+=====> Tong tien thanh toan la :1904000.0VND
